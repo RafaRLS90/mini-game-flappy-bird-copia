@@ -33,7 +33,8 @@ body {
     border: 5px solid dodgerblue;
     height: 700px;
     width: 1000px;
-    background-color: skyblue;
+    /*background-color: skyblue;*/
+    background-image: linear-gradient(rgb(5, 19, 146),rgb(156, 248, 252),rgb(18, 169, 219));
     overflow: hidden;
 }
 
